@@ -98,7 +98,7 @@ Welcome to the Food Delivery App repository! This full-stack application allows 
 
 ## Screenshots
 
-![Home Page](screenshots/home-page.png)
+![Home Page](C:\Users\ragha\Pictures\Screenshots)
 ![Cart Page](screenshots/cart-page.png)
 ![Admin Panel](screenshots/admin-panel.png)
 
