@@ -97,10 +97,15 @@ Welcome to the Food Delivery App repository! This full-stack application allows 
 3. Use the admin credentials to log in to the admin panel and manage food items and orders.
 
 ## Screenshots
+![Screenshot 2024-07-04 130904](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/51922add-c4cc-4003-9777-97672b7f4b45)
+![Screenshot 2024-07-04 132009](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/ebd3ca11-6a81-416f-9a85-cc44b4bb638b)
+![Screenshot (226)](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/4b2c6bad-f4bd-40d9-80f3-a859b8118d94)
+![Screenshot (227)](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/97b45090-95b9-41ad-aaa5-f83363dc8bb3)
+![image](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/96af4244-9599-40b1-a7e7-1de90b559b8d)
+![Screenshot (229)](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/cb813c2d-17f7-4eab-b0ea-2aef4cf8a003)
+![Screenshot (230)](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/704a3f0c-d01d-4bb8-9de2-c0f98654f38b)
+![Screenshot (231)](https://github.com/raghav13d/fresh-fit-fuel/assets/125369338/67d427b6-ea19-47df-b165-f7a919e31d0e)
 
-![Home Page](C:\Users\ragha\Pictures\Screenshots)
-![Cart Page](screenshots/cart-page.png)
-![Admin Panel](screenshots/admin-panel.png)
 
 ## Contributing
 
